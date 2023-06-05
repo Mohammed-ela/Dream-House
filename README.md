@@ -5,7 +5,6 @@
 1. [Description](###Description)
 2. [Technologies utilisés](###Technologies)
 3. [Auteurs](###Auteurs)
-4. [Important](###Important)
 
 ### Description
 
