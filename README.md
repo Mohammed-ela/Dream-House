@@ -2,9 +2,9 @@
 
 ## Sommaire 
 
-1. [Description](###Description)
-2. [Technologies utilisés](###Technologies)
-3. [Auteurs](###Auteurs)
+1. [Description](#Description)
+2. [Technologies utilisés](#Technologies)
+3. [Auteurs](#Auteurs)
 
 ### Description
 
