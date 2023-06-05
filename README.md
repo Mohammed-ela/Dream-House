@@ -1,4 +1,4 @@
-# MetaData Extractor
+# Dream House
 
 ## Sommaire 
 
@@ -9,22 +9,24 @@
 
 ### Description
 
-- Logiciel concut en java permettant l'extraction des metadonnées d'un fichier image (png,jpeg,etc...)
-- Parti CLI en ligne de commande et Parti GUI interface graphique realiser à l'aide de la bibliotheque java swing.
+- Création d’une boîte à outils permettant à l’utilisateur de 
+réaliser une conception de l’intérieur d’un appartement en 
+termes de décoration. 
+- Support de différents styles de 
+décoration et d'une intelligence permettant de générer 
+automatiquement des résultats et de les transformer en 
+différents styles.
 
 ### Technologies
 
     1- Java
     2- IDE Eclipse
-    3- Bibliothèque GroupDocs Metadata
+    3- Image retouché
 
 ### Auteurs
 
-- El amrani , Mohammed , L2 informatique , Groupe B
-- Madour , Melissa , L2 informatique , Groupe B
+- Smara, Zakaria
+- El amrani, Mohammed
+- Da costa, Léa
 
-### Important
-
-- Pour bien faire fonctionner nos 2 fichiers jar , Il vous faudra installer la librairie GroupDocs Metadata sur le lien suivant :
-<https://downloads.groupdocs.com/metadata/java>
 
